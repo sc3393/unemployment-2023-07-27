@@ -41,6 +41,11 @@ Run the web app:
 # ... or try a ".env" file approach
 export FLASK_APP=web_app flask run
 
+Run the stocks report:
+
+```sh
+python -m app.stocks
+```
 
 ## Testing
 
